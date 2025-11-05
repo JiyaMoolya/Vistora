@@ -1,0 +1,12 @@
+customer_id,order_id,order_date,spend,product_category,city,payment_mode
+1,1001,05-01-2025,200.5,Electronics,Mumbai,Credit Card
+1,1002,10-02-2025,150,Clothing,Mumbai,UPI
+1,1006,15-03-2025,320,Groceries,Pune,Debit Card
+2,1003,15-02-2025,400,Electronics,Delhi,Credit Card
+2,1004,05-03-2025,220,Groceries,Delhi,Net Banking
+3,1005,20-03-2025,180,Clothing,Bangalore,UPI
+3,1007,02-04-2025,260,Electronics,Bangalore,Credit Card
+4,1008,25-01-2025,100,Groceries,Hyderabad,Cash
+4,1009,18-02-2025,140,Groceries,Hyderabad,UPI
+5,1010,12-03-2025,600,Electronics,Chennai,Credit Card
+5,1011,01-04-2025,450,Clothing,Chennai,Debit Card

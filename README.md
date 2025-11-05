@@ -1,0 +1,1 @@
+snowflake link: https://app.snowflake.com/uknhnbk/qg25873/#/workspaces/ws/USER%24/PUBLIC/DEFAULT%24
